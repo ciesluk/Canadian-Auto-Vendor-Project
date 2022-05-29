@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #d8d6d6;
+}
+
+/*Navigation bar styles*/
+
+
+.navbar-brand img{
+    width: 70px;
+    height: 70px;
+}
+
+.navbar{
+    background: rgb(57, 57, 57);
+}
+
+.navbar .navbar-brand{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: orange;
+}
+
+.navbar .navbar-brand:hover{
+    color: orange;
+}
+
+.top-content h2{
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.top-content p{
+    line-height: 2rem;
+}
