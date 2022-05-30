@@ -31,6 +31,8 @@ body{
     color: orange;
 }
 
+/*Top Section 1*/
+
 .top-content h2{
     font-weight: 700;
     text-transform: uppercase;
@@ -39,4 +41,12 @@ body{
 
 .top-content p{
     line-height: 2rem;
+}
+
+button{
+    background-color: gray;
+    padding: 10px 15px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    border: 4px solid black;
 }
