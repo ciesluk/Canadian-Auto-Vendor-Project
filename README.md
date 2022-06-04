@@ -2,9 +2,10 @@
 
 ## About the Project
 
+Created a website that would be used by a manufacturing company. The company in this project is called Canadian Auto Vendor (not a real company). The website was created to utilize my skills of HTML, CSS, and Bootstrap. The website is also responsive for mobile, tablet, and desktop devices. 
+
 <img width="1508" alt="Screen Shot 2022-06-03 at 8 55 56 PM" src="https://user-images.githubusercontent.com/44185784/171970696-5fecc05f-ba01-4dad-b73b-2b40a3d41ad4.png">
 
-Created a website that would be used by a manufacturing company. The company in this project is called Canadian Auto Vendor (not a real company). The website was created to utilize my skills of HTML, CSS, and Bootstrap. The website is also responsive for mobile, tablet, and desktop devices. 
 
 ## Built With
 
