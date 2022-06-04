@@ -18,9 +18,9 @@ Created a website that would be used by a manufacturing company. The company in 
 
 Copy this line of code into the terminal on Visual Studio Code and you will be able to access the files used to create the website.
 
-<code>git clone https://github.com/ciesluk/Canadian-Auto-Vendor-Project.git</code> 
+$ git clone https://github.com/ciesluk/Canadian-Auto-Vendor-Project.git
 
-##Contact
+## Contact
 
 Tom Cieslukowski
-mailto:tomcieslukowski1@outlook.com
+<a href="mailto:tomcieslukowski1@outlook.com">tomcieslukowski1@outlook.com</a>
