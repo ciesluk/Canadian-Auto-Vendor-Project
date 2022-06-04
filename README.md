@@ -18,9 +18,14 @@ Created a website that would be used by a manufacturing company. The company in 
 
 Copy this line of code into the terminal on Visual Studio Code and you will be able to access the files used to create the website.
 
+```
 $ git clone https://github.com/ciesluk/Canadian-Auto-Vendor-Project.git
+```
+## License 
+Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Contact
 
-Tom Cieslukowski
-<a href="mailto:tomcieslukowski1@outlook.com">tomcieslukowski1@outlook.com</a>
+Tom Cieslukowski <br />
+Email: <a href="mailto:tomcieslukowski1@outlook.com">tomcieslukowski1@outlook.com</a> <br />
+Instagram: <a href="https://www.instagram.com/ciesluk_codes/">ciesluk_codes</a>
