@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
     <!--CSS Stylesheet-->
     <link rel="stylesheet" href="css/styles.css">
+    <!--Font Awesome-->
     <script src="https://kit.fontawesome.com/021e4094cb.js" crossorigin="anonymous"></script>
 
     <title>Canadian Auto Vendor</title>
@@ -19,7 +20,7 @@
 <body>
 
   <!--Navigation-->
-    <nav class="navbar navbar-expand-lg navbar-dark">
+    <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
         <a class="navbar-brand" href="#">Canadian Auto Vendor</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -41,8 +42,8 @@
 
   <!--Section 1-->
   <section class="container-fluid px-0">
-    <div class="row align-items-center mt-3">
-      <div class="col-lg-6 text-center content">
+    <div class="row align-items-center mb-3 mt-3">
+      <div class="col-lg-6 text-center content mb-3 mb-lg-0">
           <i class="fa fa-2x fa-solid fa-trophy"></i>
           <h2>Award Winning Auto Vendor of the Year in 2022</h2>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo quod repellat voluptatum laudantium aperiam, temporibus voluptatibus exercitationem nihil recusandae. 
@@ -60,19 +61,23 @@
       <div class="col-lg-6 order-2 order-lg-1 mb-3 mb-lg-0">
         <img src="public/factory-photo-2.webp" class="img-fluid" alt="Factory Worker working on parts at the factory">
       </div>
-      <div class="col-lg-6 order-1 order-lg-2 text-center content">
-        <h2>We do everything for cars!</h2>
+      <div class="col-lg-6 order-1 order-lg-2 text-center content mb-3 mb-lg-0">
+        <i class="fa fa-2x fa-solid fa-hammer"></i>
+        <h2>We do everything from cars to airplanes!</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, ipsum? Aperiam nulla quae eaque eius atque tempore praesentium ea asperiores ad. Blanditiis 
           pariatur hic numquam, ex vitae sint labore cupiditate?</p>
+        <button>Order Now</button>
       </div>
     </div>
 
   <!--Section 3-->
   <div class="row align-items-center">
-    <div class="col-lg-6 content text-center content">
-      <h2>We can do anything</h2>
+    <div class="col-lg-6 content text-center content mb-3 mb-lg-0">
+      <i class="fa fa-2x fa-solid fa-phone"></i>
+      <h2>We are here to help your business</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt tenetur, sequi, doloremque ratione corporis laborum omnis ea minima voluptatum recusandae dignissimos 
         neque amet accusantium, nostrum voluptatibus voluptates nisi illo eius!</p>
+      <button>Contact Us</button>
     </div>
     <div class="col-lg-6">
       <img src="public/factory-photo-3.jpeg" class="img-fluid" alt="Man working on parts in the factory.">
@@ -80,9 +85,11 @@
   </div>
   </section>
 
+  <!--Title for Section 4-->
+
   <div class="row">
     <div class="col-12 text-center mt-4">
-      <h2>The Programmers Corner</h2>
+      <h2 id="programmerTitle">The Programmers Corner</h2>
     </div>
   </div>
 
