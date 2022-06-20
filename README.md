@@ -15,6 +15,11 @@ Created a website that would be used by a manufacturing company. The company in 
 - Font Awesome 
 - Unsplash and Pexels for Images
 
+## Link to Project
+Project was deployed to Heroku. Please click the link below to view the website. 
+
+<a href="https://canadian-auto-vendor-project.herokuapp.com/">Canadian Auto Vendor</a>
+
 ## How to Install 
 
 Copy this line of code into the terminal on Visual Studio Code and you will be able to access the files used to create the website.
